@@ -1,15 +1,15 @@
-##    Customer_Segmentation_online_retail_store
+#  Customer_Segmentation_online_retail_store
 
 Segentating customers in an online retail store to drive marketing strategies to optimize the business.
 
 The project was carried out on an online ratail store aimed at segmenting all customers to drive marketing strategy.
 
-# ABOUT CUSTOMER SEGMENTATION
+## ABOUT CUSTOMER SEGMENTATION
 
 Customer segmentation is the act of grouping your audience into sub-categories based on similarities in user profiles. Segmentation allows you to find the best content, channel, and timing for your campaigns to be sent to potential leads or current customers.
 
 
-###  various types of customer segmentation includes
+## Various types of customer segmentation includes:
 
     + Demographic: Based on customer demographic information such as gender, age group, income, and occupation.
     + Geographic: Based on customer location-related details such as country, region, city, weather, and more.
@@ -21,9 +21,9 @@ Customer segmentation is the act of grouping your audience into sub-categories b
 RFM analysis is a type of customer segmentation that aims at analyzing the purchasing habits of customers there by helping to categorize different segments of customers by importance
 RFM which stands for :
 
-    + RECENCY (most recent purchase by customer) 
-    + FREQUENCY (how often the customer has transacted) 
-    + MONETARY (the total amount spent by customer during the time period looked at).
+    +  RECENCY (most recent purchase by customer) 
+    +  FREQUENCY (how often the customer has transacted) 
+    +  MONETARY (the total amount spent by customer during the time period looked at).
 
 ## RESULTS 
     After performing the RFM analysis i came up with the following results.
